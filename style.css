@@ -1,0 +1,341 @@
+.body{
+    margin: 0;
+}
+.container{
+    background-image: linear-gradient(to right, gainsboro, white);
+}
+.header_1{
+    background-color: black;
+    width: 1352px;
+    height: 110px;
+    padding-left: 3px;
+    margin-left: -8px;
+    margin-top: -8px;
+    display: grid;
+}
+.header_1_1{
+    
+    color: white;
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 51px;
+    margin-top: 30px;
+
+}
+.header_1_2{
+    background-color: rgba(68,68,68,1.0);
+    width: 1352px;
+    height: 40px;
+    padding-left: 3px;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.header_1_2_1{
+    height: 40px;
+    width: 101px;
+    margin-left: 30px;
+    background-color: rgba(68,68,68,1.0);
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.header_1_2_2{
+    height: 40px;
+    width: 125px;
+    margin-left: 30px;
+    background-color: rgba(68,68,68,1.0);
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.intro_1{
+    display: inline-block;
+    margin-top: -10px;
+}
+.intro_2{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 2em;
+    margin-top: 30px;
+    font-weight: initial;
+    color: #444;
+    margin-left: 70px;
+}
+.intro_3{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 2em;
+    margin-top: 30px;
+    font-weight: initial;
+    color: #46f;
+    margin-left: 5px;
+}
+.intro_desc{
+    width: 497px;
+    margin-left: 74px;
+    margin-top: -47px;
+    text-align: justify;
+}
+.intro_vid {
+    width: 479px;
+    margin-left: 684px;
+    margin-top: -280px;
+    height: 287px;
+}
+.newvid_1{ 
+    display: inline-block;
+    font-size: 35px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #444;
+}
+.newvid_2{ 
+    display: inline-block;
+    font-size: 35px;
+    margin-left: 2px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #46f;
+}
+.newvid_4{
+    display: inline-block;
+    margin-left: 870px;
+    font-size: 29px;
+    margin-top: -12px;
+    text-decoration: underline;
+}
+.newvid_3{
+    display: inline-block;
+    width: 1265px;
+}
+.newvid_5{
+    margin-left: 700px;
+    text-align: justify;
+    width: 514px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.newvid_6{
+    margin-top: -235px;
+}
+.newvid_7{ 
+    display: inline-block;
+    font-size: 35px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #444;
+}
+.newvid_8{ 
+    display: inline-block;
+    font-size: 35px;
+    margin-left: 2px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #46f;
+}
+.most_1{
+    width: 279px;
+    display: inline-block;
+    margin-left: 567px;
+}
+.most_2{ 
+    display: inline-block;
+    font-size: 35px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #444;
+}
+.most_3{ 
+    display: inline-block;
+    font-size: 35px;
+    margin-left: 2px;
+    line-height: 2em;
+    margin-top: 13px;
+    font-weight: initial;
+    color: #46f;
+}
+.most_6{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: -237px;;
+}
+.most_viewed{
+    margin-left: -74px;
+}
+.most_7{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: -257px;
+}
+.most_4{
+    display: inline-block;
+    margin-left: 1015px;
+    font-size: 29px;
+    text-decoration: underline;
+}
+.most_5{
+    margin-left: 845px;
+    text-align: justify;
+    width: 514px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.most_8{
+    display: inline-block;
+    margin-left: 1015px;
+    font-size: 29px;
+    text-decoration: underline;
+    margin-top: 60px;
+}
+.most_9{
+    margin-left: 845px;
+    text-align: justify;
+    width: 514px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.most_10{
+    margin-left: 75px;
+    margin-top: 37px;
+    width: 282px;
+    height: 45px;
+    background-color: #444;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 23px;
+}
+.about_2{
+    color: black;
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 39px;
+    margin-left: 90px;
+}
+.footer{
+    background-color: black;
+    width: 50%;
+    height: 365px;
+    margin-top: 25px;
+    display: inline-block;
+    margin-left: 673px;
+}
+.footer_1{
+    background-color: black;
+    width: 50%;
+    height: 365px;
+    margin-top: -365px;
+    display: inline-block;
+    margin-left: 0px;
+}
+.footer_main {
+    display: grid;
+}
+.footer_main_1{
+    display: grid;
+    margin-top: 200px;
+}
+.allvid_1{
+    margin-left: 400px;
+    margin-top: 145px;
+}
+.abtme{
+    color: white;
+    display: grid;
+}
+.abtme_1 {
+    margin-left: 320px;
+    font-size: 35px;
+    display: inline-block;
+    margin-top: 35px;
+    font-family: Gabriola;
+    color: white;
+    text-decoration: underline;
+}
+.abtme_2{
+    color: white;
+    margin-left: 320px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: 2px;
+    font-size: 26px;
+}
+.abtme_4{
+    color: white;
+    margin-left: 420px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+.abtme_5{
+    color: white;
+    margin-left: 320px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+
+.abtme_6{
+    color: white;
+    margin-left: 320px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+.abtme_1_1{
+    margin-left: 80px;
+    font-size: 35px;
+    display: inline-block;
+    margin-top: 35px;
+    font-family: Gabriola;
+    color: white;
+    text-decoration: underline;
+}
+.abtme_1_2{
+    color: white;
+    margin-left: 80px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: 2px;
+    font-size: 26px;
+}
+.abtme_1_3{
+    color: white;
+    margin-left: 80px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+.abtme_1_4{
+    color: white;
+    margin-left: 80px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+.abtme_1_5{
+    color: white;
+    margin-left: 80px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
+.abtme_1_6{
+    color: white;
+    margin-left: 182px;
+    display: inline-block;
+    font-family: Gabriola;
+    margin-top: -5px;
+    font-size: 26px;
+}
