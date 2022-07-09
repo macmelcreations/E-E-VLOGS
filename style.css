@@ -1,7 +1,7 @@
 .body{
     margin: 0;
 }
-.container{
+.contain{
     background-image: linear-gradient(to right, gainsboro, white);
 }
 .header_1{
@@ -20,6 +20,7 @@
     font-size: 40px;
     margin-left: 51px;
     margin-top: 30px;
+    font-family: fangsong;
 
 }
 .header_1_2{
@@ -59,27 +60,14 @@
     margin-top: 30px;
     font-weight: initial;
     color: #444;
-    margin-left: 70px;
-}
-.intro_3{
-    display: inline-block;
-    font-size: 40px;
-    line-height: 2em;
-    margin-top: 30px;
-    font-weight: initial;
-    color: #46f;
-    margin-left: 5px;
 }
 .intro_desc{
     width: 497px;
-    margin-left: 74px;
-    margin-top: -47px;
     text-align: justify;
+    display: contents;
 }
 .intro_vid {
     width: 479px;
-    margin-left: 684px;
-    margin-top: -280px;
     height: 287px;
 }
 .newvid_1{ 
@@ -90,35 +78,13 @@
     font-weight: initial;
     color: #444;
 }
-.newvid_2{ 
-    display: inline-block;
-    font-size: 35px;
-    margin-left: 2px;
-    line-height: 2em;
-    margin-top: 13px;
-    font-weight: initial;
-    color: #46f;
-}
-.newvid_4{
-    display: inline-block;
-    margin-left: 870px;
-    font-size: 29px;
-    margin-top: -12px;
-    text-decoration: underline;
+.yt_1{
+    margin-top: 25px;
+    align-self: flex-end;
 }
 .newvid_3{
     display: inline-block;
     width: 1265px;
-}
-.newvid_5{
-    margin-left: 700px;
-    text-align: justify;
-    width: 514px;
-    display: inline-block;
-    margin-top: 15px;
-}
-.newvid_6{
-    margin-top: -235px;
 }
 .newvid_7{ 
     display: inline-block;
@@ -200,7 +166,6 @@
     margin-top: 15px;
 }
 .most_10{
-    margin-left: 75px;
     margin-top: 37px;
     width: 282px;
     height: 45px;
@@ -227,71 +192,41 @@
 }
 .footer_1{
     background-color: black;
-    width: 50%;
-    height: 365px;
-    margin-top: -365px;
-    display: inline-block;
-    margin-left: 0px;
-}
-.footer_main {
-    display: grid;
+    margin-top: 15px;
+    width: 100%;
 }
 .footer_main_1{
     display: grid;
     margin-top: 200px;
-}
-.allvid_1{
-    margin-left: 400px;
-    margin-top: 145px;
 }
 .abtme{
     color: white;
     display: grid;
 }
 .abtme_1 {
-    margin-left: 320px;
     font-size: 35px;
     display: inline-block;
-    margin-top: 35px;
     font-family: Gabriola;
     color: white;
-    text-decoration: underline;
+    margin-top: 35px;
+
 }
 .abtme_2{
     color: white;
-    margin-left: 320px;
     display: inline-block;
     font-family: Gabriola;
     margin-top: 2px;
     font-size: 26px;
 }
-.abtme_4{
+.abtme_3{
     color: white;
-    margin-left: 420px;
+    margin-left: 100px;
     display: inline-block;
     font-family: Gabriola;
-    margin-top: -5px;
-    font-size: 26px;
-}
-.abtme_5{
-    color: white;
-    margin-left: 320px;
-    display: inline-block;
-    font-family: Gabriola;
-    margin-top: -5px;
-    font-size: 26px;
-}
-
-.abtme_6{
-    color: white;
-    margin-left: 320px;
-    display: inline-block;
-    font-family: Gabriola;
-    margin-top: -5px;
+    margin-top: 2px;
     font-size: 26px;
 }
 .abtme_1_1{
-    margin-left: 80px;
     font-size: 35px;
     display: inline-block;
     margin-top: 35px;
@@ -301,7 +236,6 @@
 }
 .abtme_1_2{
     color: white;
-    margin-left: 80px;
     display: inline-block;
     font-family: Gabriola;
     margin-top: 2px;
@@ -309,7 +243,6 @@
 }
 .abtme_1_3{
     color: white;
-    margin-left: 80px;
     display: inline-block;
     font-family: Gabriola;
     margin-top: -5px;
@@ -317,7 +250,6 @@
 }
 .abtme_1_4{
     color: white;
-    margin-left: 80px;
     display: inline-block;
     font-family: Gabriola;
     margin-top: -5px;
@@ -325,15 +257,6 @@
 }
 .abtme_1_5{
     color: white;
-    margin-left: 80px;
-    display: inline-block;
-    font-family: Gabriola;
-    margin-top: -5px;
-    font-size: 26px;
-}
-.abtme_1_6{
-    color: white;
-    margin-left: 182px;
     display: inline-block;
     font-family: Gabriola;
     margin-top: -5px;
